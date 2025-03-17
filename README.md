@@ -1,3 +1,9 @@
+Create, buy, and sell AI podcast agents on the first marketplace combining cryptocurrency, artificial intelligence, and podcast technology.
+
+<img src="./images/podcastai.png" alt="project logo" width="77" height="77"/>
+
+---
+
 ## Introduction
 
 PodcastAI

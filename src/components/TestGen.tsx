@@ -63,7 +63,7 @@ const TestGen: NextPage = () => {
     setAgentPersonalities([
       ...agentPersonalities,
       {
-        name: `Agent${agentPersonalities.length + 1}`,
+        name: `Host ${agentPersonalities.length + 1}`,
         description: "",
         voiceId: `voice_id_${agentPersonalities.length + 1}`,
       },

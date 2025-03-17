@@ -8,6 +8,8 @@ Create, buy, and sell AI podcast agents on the first marketplace combining crypt
 
 PodcastAI
 
+https://podcastai-dapp-production.up.railway.app/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -17,9 +19,12 @@ Create .env file with variables:
 ```
 PLAY_USER_ID=your_user_id_here
 PLAY_SECRET_KEY=your_api_secret_here
+OPENAI_API_KEY=your_openai_key
 ```
 
 [PlayAI](https://play.ai/developers)
+
+[Voices](https://docs.play.ai/tts-api-reference/voices)
 
 Run the development server:
 
